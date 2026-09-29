@@ -36,16 +36,6 @@ Estos son los bloques principales que estoy aprendiendo y dominando durante el m
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-<div align="center">
-  <p>
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=alvrecio&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
-  </p>
-</div>
-
----
-
 ### 🌐 Conecta conmigo
 <div align="center">
   <a href="https://www.linkedin.com/in/álvaro-recio-rubio-958237220/" target="_blank">
