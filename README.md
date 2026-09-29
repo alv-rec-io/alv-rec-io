@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>¡Hola, soy Álvaro! 👋</h1>
-  <h3>💻 Desarrollador de Software en constante evolución</h3>
+  <h1>Hola, soy Álvaro</h1>
+  <h3>Estudiante de Máster en Inienería MultiCloud y DevSecOps</h3>
   
   <p>
     <img src="https://img.shields.io/badge/Status-BuscandoNuevosRetos-blue?style=for-the-badge&logo=appveyor" alt="Status" />
