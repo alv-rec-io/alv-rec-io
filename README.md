@@ -1,26 +1,38 @@
 <div align="center">
   <h1>Hola, soy Álvaro</h1>
-  <h3>Estudiante de Máster en Inienería MultiCloud y DevSecOps</h3>
+  <h3>☁️ Estudiante de Máster en Ingeniería Multicloud y DevSecOps</h3>
   
   <p>
-    <img src="https://img.shields.io/badge/Status-BuscandoNuevosRetos-blue?style=for-the-badge&logo=appveyor" alt="Status" />
-    <img src="https://img.shields.io/badge/Pronombres-Él-informational?style=for-the-badge" alt="Pronouns" />
+    <img src="https://img.shields.io/badge/Status-Estudiando_y_Evolving-blue?style=for-the-badge&logo=appveyor" alt="Status" />
+    <img src="https://img.shields.io/badge/Enfoque-Cloud_%7C_Security_%7C_DevOps-informational?style=for-the-badge" alt="Focus" />
   </p>
 </div>
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
-Aquí tienes algunas de las tecnologías con las que trabajo y sigo aprendiendo día a día:
+### 🎯 Sobre mí
+Actualmente me encuentro cursando un **Máster en Ingeniería Multicloud y DevSecOps**, enfocando mi formación hacia la administración de infraestructuras en la nube, la automatización, la seguridad y las arquitecturas híbridas.
 
-<div align="center">
-  <!-- Lenguajes -->
-  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css&perline=5" />
-  <!-- Frameworks y Librerías -->
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,git,github&perline=5" />
-  <!-- Herramientas y OS -->
-  <img src="https://skillicons.dev/icons?i=vscode,linux,figma,postman&perline=4" />
-</div>
+---
+
+### 📚 Conceptos y Tecnologías en Formación
+Estos son los bloques principales que estoy aprendiendo y dominando durante el máster:
+
+*   🖥️ **Sistemas e Infraestructura:** Administración de Windows Server 2025.
+*   ☁️ **Microsoft Azure:** 
+    *   Administración de Infraestructuras Cloud (Preparación test **AZ-104**).
+    *   Arquitecturas híbridas con Azure.
+    *   Tecnologías de Seguridad (Preparación test **AZ-500**).
+*   🌩️ **Amazon Web Services (AWS):** 
+    *   Arquitectura Cloud (Preparación test **SAA-C03**).
+    *   Arquitecturas híbridas con AWS.
+*   ⚙️ **DevOps & Automatización:** 
+    *   Automatización de flujos de trabajo con **GitHub** (Preparación test **GitHub Actions**).
+    *   Creación de **Pipelines** CI/CD.
+*   🏗️ **Infrastructure as Code (IaC) & Contenedores:** 
+    *   **Terraform** y **Ansible** (para Azure y AWS).
+    *   **Docker** y **Kubernetes**.
+*   🤖 **Cloud & AI:** Inteligencia Artificial aplicada a las infraestructuras cloud.
 
 ---
 
@@ -29,7 +41,6 @@ Aquí tienes algunas de las tecnologías con las que trabajo y sigo aprendiendo 
 <div align="center">
   <p>
     <img height="180px" src="https://github-readme-stats.vercel.app/api?username=alvrecio&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
-    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvrecio&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
   </p>
 </div>
 
@@ -37,11 +48,8 @@ Aquí tienes algunas de las tecnologías con las que trabajo y sigo aprendiendo 
 
 ### 🌐 Conecta conmigo
 <div align="center">
-  <a href="https://linkedin.com/in/TU-USUARIO" target="_blank">
+  <a href="https://www.linkedin.com/in/álvaro-recio-rubio-958237220/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:tu-correo@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
